@@ -1,1 +1,4 @@
-# statt_question_2
+# Statt Question 2
+Two Algorithms:
+- Knapsack
+- SGF Parsing
